@@ -2,8 +2,7 @@
 title: "goodBad"
 author: "Chase Clark"
 date: "October 8, 2018"
-github_document:
-    html_preview: false
+output: github_document
 ---
 
 ```{r}
