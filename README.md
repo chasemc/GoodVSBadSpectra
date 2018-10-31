@@ -1,4 +1,4 @@
-goodBad
+Good vs Bad MALDI Spectra
 ================
 Chase Clark
 October 8, 2018
